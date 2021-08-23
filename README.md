@@ -106,3 +106,7 @@ sh:LoseMoneyMotivation
       """ ;
   ] .
 ```
+
+## 動機、手段タグ付き文：青空文庫で公開されているアーサー・コナン・ドイルの、23の短編小説
+* https://github.com/okajima-s/kgc2018-fllml/blob/master/src/data/train.tsv
+* 使用例：https://github.com/okajima-s/kgc2018-fllml/blob/master/src/20181125_kgc_FLL-ML_program.pdf
