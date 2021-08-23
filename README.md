@@ -29,7 +29,7 @@ fjs:sleeping_place a rdfs:Class .
 fjs:sleeping_place rdfs:label "sleeping place"@en .
 ```
 
-# 殺害手段オントロジー
+## 殺害手段オントロジー
 * https://github.com/KGChallenge/Challenge/blob/master/Means/KnowledgeGraph/root-ontology_modify2.ttl
 ```
 <http://kgchallenge.github.io/ontology/毒殺> rdf:type owl:Class ;
@@ -56,7 +56,7 @@ kd:beDizzy a kgcf:めまい .
 kd:turnPale a kgcf:青白い .
 ```
 
-# SHACLによる動機付け：動機がある人に HasMotivation のタイプを付与する
+## SHACLによる動機付け：動機がある人に HasMotivation のタイプを付与する
 * https://github.com/KGChallenge/Challenge/blob/master/Motivation/KnowledgeGraph/InferenceMotivation.ttl
 ```
 # お金を失う可能性のある人
